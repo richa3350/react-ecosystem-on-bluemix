@@ -1,0 +1,26 @@
+{
+  "name": "NodejsStarterApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cfenv": "1.0.x",
+    "express": "4.13.x",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+	"devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.11.1",
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}
